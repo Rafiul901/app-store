@@ -15,7 +15,7 @@ const Layout = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between flex-wrap gap-4">
             <Link to="/" className="text-2xl font-bold text-blue-600 hover:text-blue-700 transition">
-              AppStore
+              HERO.IO
             </Link>
 
             <nav className="flex items-center gap-6">
